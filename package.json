@@ -1,6 +1,6 @@
 {
   "_from": "aureliatoolbelt-thirdparty",
-  "_id": "aureliatoolbelt-thirdparty@1.0.7",
+  "_id": "aureliatoolbelt-thirdparty@1.0.8",
   "_inBundle": false,
   "_integrity": "sha512-zM+oSS2/Uee5oF90XOaBtKR0mMrhyGU4UOKYDn+UFeMxkdtldTrhtqIbHdnXpZnQgMAlTioyNuj4bwlPFn0dWw==",
   "_location": "/aureliatoolbelt-thirdparty",
@@ -54,5 +54,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.7"
+  "version": "1.0.8"
 }
