@@ -1,0 +1,58 @@
+{
+  "_from": "aureliatoolbelt-thirdparty",
+  "_id": "aureliatoolbelt-thirdparty@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-zM+oSS2/Uee5oF90XOaBtKR0mMrhyGU4UOKYDn+UFeMxkdtldTrhtqIbHdnXpZnQgMAlTioyNuj4bwlPFn0dWw==",
+  "_location": "/aureliatoolbelt-thirdparty",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "aureliatoolbelt-thirdparty",
+    "name": "aureliatoolbelt-thirdparty",
+    "escapedName": "aureliatoolbelt-thirdparty",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/aureliatoolbelt-thirdparty/-/aureliatoolbelt-thirdparty-1.0.6.tgz",
+  "_shasum": "3b9df69ab631c6f6f0712c7bc5e18f4f9f06ce85",
+  "_spec": "aureliatoolbelt-thirdparty",
+  "_where": "C:\\Users\\0084125561\\Desktop\\ddd",
+  "author": {
+    "name": "Hamed Fathi"
+  },
+  "bugs": {
+    "url": "https://github.com/aurelia-toolbelt/aurelia-toolbelt/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "The collections of javascript libraries used in Aurelia Toolbelt are coordinated with Bootstrap 4.",
+  "devDependencies": {
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  },
+  "homepage": "https://github.com/aurelia-toolbelt/aurelia-toolbelt",
+  "keywords": [
+    "aurelia",
+    "plugin",
+    "toolbelt",
+    "aurelia toolbelt"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "aureliatoolbelt-thirdparty",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurelia-toolbelt/aurelia-toolbelt.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}

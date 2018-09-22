@@ -1,0 +1,26 @@
+.at-float-label {
+      position: relative;
+      padding-top: 18px;
+  }
+  .at-float-label-rtl {
+      right: 0;
+  }
+  .at-float-label-ltr {
+      left: 0;
+  }
+  .at-float-label>.float-input {}
+  .at-float-label>.float-input:focus {}
+  .at-float-label>.float-label {
+      position: absolute;
+      top: 3px;
+      -webkit-transition: top .3s ease-in-out, opacity .3s ease-in-out;
+      transition: top .3s ease-in-out, opacity .3s ease-in-out;
+      opacity: 0;
+      font-size: 13px;
+  }
+  .at-float-label>.float-label.show {
+      /* color: black;*/
+      top: -3px;
+      opacity: 1;
+  }
+  .at-float-label>.float-label.on {}
